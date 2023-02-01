@@ -1,0 +1,21 @@
+{
+  "name": "com.postegames.ezcamerashakerextensions",
+  "version": "1.0.0",
+  "displayName": "PEGLIB - EZ Camera Shaker Extensions",
+  "description": "Integrates the EZ Camera Shaker asset with the events and messages system of Toolbox.",
+  "unity": "2022.2",
+  "dependencies": {
+    "com.postegames.eventbehaviourframework": "",
+    "com.postegames.messagebehaviourframework": ""
+  },
+  "keywords": [
+    "extension",
+    "camera",
+    "ez camera shaker"
+  ],
+  "author": {
+    "name": "Sluggy",
+    "email": "jcsluggy@gmail.com",
+    "url": "http:/postegames.com"
+  }
+}

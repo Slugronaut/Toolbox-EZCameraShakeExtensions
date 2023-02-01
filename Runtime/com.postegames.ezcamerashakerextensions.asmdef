@@ -1,0 +1,18 @@
+{
+    "name": "com.postegames.ezcamerashakerextensions",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3fd7fe5686ac79b41bd16ac24fa0436a",
+        "GUID:09d412232a7594641a5babcb01aa5e01",
+        "GUID:9c0a338e6b91ff44d87dfae00e162757"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
