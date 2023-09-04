@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using EZCameraShake;
 
-namespace Toolbox.Extensions
+namespace Peg.Extensions
 {
     /// <summary>
     /// Shakes the camera upon receiving a specified message.
